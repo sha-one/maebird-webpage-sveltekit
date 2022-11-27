@@ -5,7 +5,7 @@
 <div class="content-section">
   <div class="content-section-inner text-center">
     <h1 class="pb-0 text-amber-400 font-comfortaa tracking-tight font-semibold font text-5xl mb-3">Mae Bird</h1>
-    <p class= "text-xl text-orange-200 max-w-lg mx-auto"><strong class="text-amber-300">Singer/song-channeller</strong> singing for <span class="">healing and love</span>, <br /><span class="">inspired by nature.</span></p> 
+    <p class= "text-xl text-orange-200 max-w-lg mx-auto"><strong class="text-amber-300">Singer/song-channeller</strong> <span class="">singing for healing and love inspired by nature.</span></p> 
     <div class="profile-image-container mt-6">
       <img class="profile-image" src="mae-profile-square.jpeg" alt="mae bird profile shot">
     </div>
