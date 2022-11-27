@@ -10,10 +10,11 @@
       <img class="profile-image" src="mae-profile-square.jpeg" alt="mae bird profile shot">
     </div>
     <div class="link-container mt-6">
-      <a class="link" target="_blank" href="https://www.instagram.com/maebirdsings/">Instagram</a>
-      <a class="link" target="_blank" href="https://www.facebook.com/maebirdsings">Facebook</a>
       <a class="link" target="_blank" href="https://maebird.bandcamp.com/releases">Bandcamp</a>
       <a class="link" target="_blank" href="https://soundcloud.com/mae-gomersall-870459893">Soundcloud</a>
+      <a class="link" target="_blank" href="https://open.spotify.com/artist/7dEdtwQRLFre23Rm62OQvR?si=VM5v_sFPRdSPFBWafxMnkg&nd=1">Spotify</a>
+      <a class="link" target="_blank" href="https://www.instagram.com/maebirdsings/">Instagram</a>
+      <a class="link" target="_blank" href="https://www.facebook.com/maebirdsings">Facebook</a>
     </div>
   </div>
 </div>
