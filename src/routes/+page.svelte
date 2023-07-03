@@ -12,19 +12,20 @@
     <div class="gigs">
       <h3 class="mt-12">Upcoming concerts July/August (UK)</h3>
       <p><strong>Hola tribe!</strong></p>
-      <p>So I will be coming back to the UK at the end of July to play some concerts in some wonderful places I have curated with integrity with the hep of some very supportive people around England! </p>
-      <h4 class="mt-8">Dates confirmed:</h4>
-      <p>
-        <ul>
-          <li>29th July in Brighton</li>
-          <li>4th August in Dorsey (Our light gathering)</li>
-          <li>5th August in the New forest</li>
-          <li>11th August in Sowerby Bridge</li>
-          <li>13th August in Leeds</li>
-          <li>25th August at The Village festival, midlands</li>
-
-        </ul>
+      <p>So I will be coming back to the UK at the end of July to play some concerts in some wonderful places I have curated with integrity with the help of some very supportive people around England! </p>
+      <div class=" bg-slate-800 pb-8 pt-6 mt-8 rounded-md">
+        <h4 class="">Dates confirmed:</h4>
         <p>
+          <ul>
+            <li>29th July in Brighton</li>
+            <li>4th August in Dorsey (Our light gathering)</li>
+            <li>5th August in the New forest</li>
+            <li>11th August in Sowerby Bridge</li>
+            <li>13th August in Leeds</li>
+            <li>25th August at The Village festival, midlands</li>
+          </ul>
+        <p>
+      </div>
       <p class="mt-8 text-sm mb-4">
         More details to come, if you would like more info about one of these events send me a message and I will respond with love!
         Thank you the wonderful spaces being created and all the people involved in these gatherings. 
