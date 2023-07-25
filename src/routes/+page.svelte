@@ -29,9 +29,7 @@
         More details to come, if you would like more info about one of these events send me a message and I will respond with love!
         Thank you the wonderful spaces being created and all the people involved in these gatherings. 
       </p>
-      <p class=" text-gray-400"><i>#summer #livemusic #heartsongs #gratidão</i></p>
-        
-   
+      <p class=" text-gray-400"><i>#summer #livemusic #heartsongs #gratidão</i></p>        
     </div>
     <div class="link-container mt-6">
       <a class="link" target="_blank" href="https://maebird.bandcamp.com/releases">Bandcamp</a>
