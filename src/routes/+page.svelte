@@ -17,11 +17,10 @@
         <h4 class="">Dates confirmed:</h4>
         <p>
           <ul>
-            <li>29th July in Brighton</li>
-            <li>4th August in Dorsey (Our light gathering)</li>
-            <li>5th August in the New forest</li>
-            <li>11th August in Sowerby Bridge</li>
-            <li>13th August in Leeds</li>
+            <li>28th July in Brighton <a target="_blank" href="https://www.eventbrite.com/e/maebird-live-in-brighton-tickets-670645307167?aff=oddtdtcreator"></a></li>
+            <li>29th - 4th August in Dorset (Our light gathering) <a target="_blank" href="https://www.tickettailor.com/events/ourlight/893612"></a></li>
+            <li>4th August in the New forest <a target="_blank" href="https://www.tickettailor.com/events/sowelonaturalconnection/962397"></a></li>
+            <li>13th August in Leeds <a target="_blank" href="https://www.tickettailor.com/events/freedomseekers/962861"></a></li>
             <li>25th August at The Village festival, midlands</li>
           </ul>
         <p>
